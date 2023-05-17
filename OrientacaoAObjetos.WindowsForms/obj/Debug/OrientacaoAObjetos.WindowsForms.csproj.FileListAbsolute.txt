@@ -1,0 +1,17 @@
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAObjetos.WindowsForms.exe.config
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAObjetos.WindowsForms.exe
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAObjetos.WindowsForms.pdb
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAobjeto.Dia3.dll
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia2.dll
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAobjeto.Dia3.pdb
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\bin\Debug\OrientacaoAObjetos.Dia2.pdb
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.RevisaoConstrutores.resources
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.csproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.csproj.CopyComplete
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.exe
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.pdb
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAObjetos.WindowsForms\obj\Debug\OrientacaoAObjetos.WindowsForms.AulaConstrutores.resources

@@ -1,0 +1,26 @@
+﻿using OrientacaoAObjetos.Dia1;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OrientacaoAObjetos.Interface
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Pessoa p1 = new Pessoa();
+            p1.Nome = "Erick";
+            p1.Idade = 24;
+            p1.Mensalidade = 15.78m;
+            p1.Socio = true;
+            p1.Interesse = "Novos Modelos";
+
+            Console.WriteLine($"Nosso grande cliente:{p1.Nome.ToUpper()}");
+            Console.WriteLine(p1.VerificarSociedade() ? "é nosso sócio" : "não é nosso sócio");
+            Console.ReadLine();
+        }
+    }
+}

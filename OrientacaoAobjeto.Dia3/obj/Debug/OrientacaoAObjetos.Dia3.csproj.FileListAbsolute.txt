@@ -1,0 +1,6 @@
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\bin\Debug\OrientacaoAobjeto.Dia3.dll
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\bin\Debug\OrientacaoAobjeto.Dia3.pdb
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\obj\Debug\OrientacaoAObjetos.Dia3.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\obj\Debug\OrientacaoAObjetos.Dia3.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\obj\Debug\OrientacaoAobjeto.Dia3.dll
+C:\Users\ALUNO\Desktop\Orienta-o-a-Objetos-main\OrientacaoAobjeto.Dia3\obj\Debug\OrientacaoAobjeto.Dia3.pdb
