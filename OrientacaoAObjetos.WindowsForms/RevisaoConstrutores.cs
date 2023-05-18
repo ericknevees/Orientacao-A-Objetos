@@ -29,5 +29,10 @@ namespace OrientacaoAObjetos.WindowsForms
             MessageBox.Show(cliente.Nome);
             MessageBox.Show(cliente.CPF);
         }
+
+        private void txtNome_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
